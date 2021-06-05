@@ -1,4 +1,4 @@
-package com.example.mqttclient.protocol.protocol;
+package com.example.mqttclient.protocol;
 
 public class AirConfitioningMesssage extends BaseMessage{
     public float value;
