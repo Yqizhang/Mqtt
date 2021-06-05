@@ -1,4 +1,4 @@
-package com.example.mqttclient.protocol.protocol;
+package com.example.mqttclient.protocol;
 
 public class FloatMessage extends BaseMessage{
     public float value;
